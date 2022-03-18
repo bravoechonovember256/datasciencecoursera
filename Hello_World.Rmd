@@ -1,8 +1,7 @@
 ---
 title: "the_data_scientists_toolbox"
 author: "Ben Graham"
-date: "`r Sys.Date()`"
-output: html_document
+date: "2022-03-18"
 ---
 
 ## This is a markdown file
